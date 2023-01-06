@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "http://localhost:3000/ordem-paranormal-site/static/css/main.e4421075.css",
-    "main.js": "http://localhost:3000/ordem-paranormal-site/static/js/main.3f88d1fa.js",
-    "static/media/atributos.png": "http://localhost:3000/ordem-paranormal-site/static/media/atributos.52c9a29cb3d872445f46.png",
-    "static/media/D20Black.svg": "http://localhost:3000/ordem-paranormal-site/static/media/D20Black.46ac3a08d1141b5b081705e6fc4e4c12.svg",
-    "static/media/D20.svg": "http://localhost:3000/ordem-paranormal-site/static/media/D20.e5dee45e8d61b228d2c0360420c16fbc.svg",
-    "static/media/OrdoRealitas.svg": "http://localhost:3000/ordem-paranormal-site/static/media/OrdoRealitas.1e347dd418cf47b28c7d9100c317d4e4.svg",
-    "static/media/atributeBar.svg": "http://localhost:3000/ordem-paranormal-site/static/media/atributeBar.a28edc4db64733df2dfc1f7ff32ea7ee.svg",
-    "static/media/ordemParanormal.png": "http://localhost:3000/ordem-paranormal-site/static/media/ordemParanormal.881bf7fac60e5b11b3e0.png",
-    "static/media/shild.svg": "http://localhost:3000/ordem-paranormal-site/static/media/shild.474687dc2cb8d810805a994033f95b23.svg",
-    "static/media/add.svg": "http://localhost:3000/ordem-paranormal-site/static/media/add.3b6d9a1dff718be4e7546dc961b483ba.svg",
-    "index.html": "http://localhost:3000/ordem-paranormal-site/index.html",
-    "static/media/edit.svg": "http://localhost:3000/ordem-paranormal-site/static/media/edit.a2d67021cc53828fa1a56d70a103b3b4.svg",
-    "static/media/save.svg": "http://localhost:3000/ordem-paranormal-site/static/media/save.78b36093490bb9904340764faeee06a9.svg",
-    "static/media/trash.svg": "http://localhost:3000/ordem-paranormal-site/static/media/trash.6a56acfb69b3ec305089c9f22afe9f5f.svg",
-    "static/media/home.svg": "http://localhost:3000/ordem-paranormal-site/static/media/home.df20e41d70995c4c5e54afa2c8d348c4.svg",
-    "static/media/x.svg": "http://localhost:3000/ordem-paranormal-site/static/media/x.fc415589183ca323b3c8c7bf08a453d4.svg",
-    "main.e4421075.css.map": "http://localhost:3000/ordem-paranormal-site/static/css/main.e4421075.css.map",
-    "main.3f88d1fa.js.map": "http://localhost:3000/ordem-paranormal-site/static/js/main.3f88d1fa.js.map"
+    "main.css": "/static/css/main.e4421075.css",
+    "main.js": "/static/js/main.d9a53326.js",
+    "static/media/atributos.png": "/static/media/atributos.52c9a29cb3d872445f46.png",
+    "static/media/D20Black.svg": "/static/media/D20Black.46ac3a08d1141b5b081705e6fc4e4c12.svg",
+    "static/media/D20.svg": "/static/media/D20.e5dee45e8d61b228d2c0360420c16fbc.svg",
+    "static/media/OrdoRealitas.svg": "/static/media/OrdoRealitas.1e347dd418cf47b28c7d9100c317d4e4.svg",
+    "static/media/atributeBar.svg": "/static/media/atributeBar.a28edc4db64733df2dfc1f7ff32ea7ee.svg",
+    "static/media/ordemParanormal.png": "/static/media/ordemParanormal.881bf7fac60e5b11b3e0.png",
+    "static/media/shild.svg": "/static/media/shild.474687dc2cb8d810805a994033f95b23.svg",
+    "static/media/add.svg": "/static/media/add.3b6d9a1dff718be4e7546dc961b483ba.svg",
+    "static/media/edit.svg": "/static/media/edit.a2d67021cc53828fa1a56d70a103b3b4.svg",
+    "static/media/save.svg": "/static/media/save.78b36093490bb9904340764faeee06a9.svg",
+    "static/media/trash.svg": "/static/media/trash.6a56acfb69b3ec305089c9f22afe9f5f.svg",
+    "static/media/home.svg": "/static/media/home.df20e41d70995c4c5e54afa2c8d348c4.svg",
+    "index.html": "/index.html",
+    "static/media/x.svg": "/static/media/x.fc415589183ca323b3c8c7bf08a453d4.svg",
+    "main.e4421075.css.map": "/static/css/main.e4421075.css.map",
+    "main.d9a53326.js.map": "/static/js/main.d9a53326.js.map"
   },
   "entrypoints": [
     "static/css/main.e4421075.css",
-    "static/js/main.3f88d1fa.js"
+    "static/js/main.d9a53326.js"
   ]
 }
