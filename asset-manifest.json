@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ordem-paranormal-site/static/css/main.e4421075.css",
-    "main.js": "/ordem-paranormal-site/static/js/main.000bbd28.js",
+    "main.css": "/ordem-paranormal-site/static/css/main.cc2f5e4d.css",
+    "main.js": "/ordem-paranormal-site/static/js/main.3fa14e87.js",
     "static/media/atributos.png": "/ordem-paranormal-site/static/media/atributos.52c9a29cb3d872445f46.png",
     "static/media/D20Black.svg": "/ordem-paranormal-site/static/media/D20Black.46ac3a08d1141b5b081705e6fc4e4c12.svg",
     "static/media/D20.svg": "/ordem-paranormal-site/static/media/D20.e5dee45e8d61b228d2c0360420c16fbc.svg",
@@ -16,11 +16,11 @@
     "static/media/trash.svg": "/ordem-paranormal-site/static/media/trash.6a56acfb69b3ec305089c9f22afe9f5f.svg",
     "static/media/home.svg": "/ordem-paranormal-site/static/media/home.df20e41d70995c4c5e54afa2c8d348c4.svg",
     "static/media/x.svg": "/ordem-paranormal-site/static/media/x.fc415589183ca323b3c8c7bf08a453d4.svg",
-    "main.e4421075.css.map": "/ordem-paranormal-site/static/css/main.e4421075.css.map",
-    "main.000bbd28.js.map": "/ordem-paranormal-site/static/js/main.000bbd28.js.map"
+    "main.cc2f5e4d.css.map": "/ordem-paranormal-site/static/css/main.cc2f5e4d.css.map",
+    "main.3fa14e87.js.map": "/ordem-paranormal-site/static/js/main.3fa14e87.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4421075.css",
-    "static/js/main.000bbd28.js"
+    "static/css/main.cc2f5e4d.css",
+    "static/js/main.3fa14e87.js"
   ]
 }
